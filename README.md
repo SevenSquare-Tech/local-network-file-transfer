@@ -2,6 +2,8 @@
 
 This repository provides a simple and reliable way to transfer files (images, videos, PDFs, etc.) over **WebRTC Data Channels**.
 
+[Step-by-Step Guide to Build a Local Network File Transfer App in ReactJS Using WebRTC.](https://www.sevensquaretech.com/local-network-file-transfer-reactjs-webrtc-github-code/)
+
 ## Background
 
 Over the past few months, I have been working with WebRTC live streams and one-to-one chats. However, when it came to file transfers, the system often crashed.
